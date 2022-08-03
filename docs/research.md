@@ -1,17 +1,18 @@
 # Research and the Computational Digital Humanities Colab
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Here are links to our research as well as projects and research we supervise and collaborate on in both our AI Digitial Humanities courses and DH Colab.
 
-## Computational Digital Humanities
+## **Faculty**
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[Kathrine L. Elkins](https://kenyon.academia.edu/KatherineElkins)
 
-## Project layout
+[Jon Chun](https://kenyon.academia.edu/JChun)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## **Students**
+
+### [IPHS200 Programming Humanity](https://digital.kenyon.edu/dh_iphs_prog/)
+
+### [IPHS300 AI for the Humanities](https://digital.kenyon.edu/dh_iphs_ai/)
+### [IPHS484 Senior Seminar/Independent Research](https://digital.kenyon.edu/dh_iphs_ss/)
+
+### [All Digital Humanities Projects](https://digital.kenyon.edu/dh/)

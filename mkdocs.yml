@@ -11,3 +11,9 @@ nav:
   - Courses: courses.md
   - Social Media: socialmedia.md
   - About: about.md
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js

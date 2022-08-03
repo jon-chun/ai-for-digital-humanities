@@ -1,17 +1,17 @@
 # Computational Digital Humanities Colab on Social Media
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## **Katherine Elkins**
 
-## Computational Digital Humanities
+Twitter: coming...
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[LinkedIn: kate-elkins](https://www.linkedin.com/in/kate-elkins/)
 
-## Project layout
+[Facebook: kate.elkins.963](https://www.facebook.com/kate.elkins.963)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+## **Jon Chun**
+[Twitter: jonchun2000](https://twitter.com/jonchun2000)
+
+[LinkedIn: jonchun2000](https://www.linkedin.com/in/jonchun2000/)
+
+[Facebook: jon.chun.94](https://www.facebook.com/jon.chun.94)
