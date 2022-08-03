@@ -1,4 +1,13 @@
-site_name: My Docs
+site_name: AI for Digital Humanities and the Computational Digital Humanities Colab
+site_url: https://jon-chun.github.io
 
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - Research: research.md
+  - Resources: resources.md
+  - Courses: courses.md
+  - Social Media: socialmedia.md
+  - About: about.md

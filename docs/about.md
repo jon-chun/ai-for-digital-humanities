@@ -1,4 +1,4 @@
-# Welcome to AI for the Digital Humanities and the cDH Colab
+# About the cDH Colab: Computational Digital Humanities Colaboratory
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

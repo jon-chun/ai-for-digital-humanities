@@ -1,8 +1,8 @@
-# Welcome to AI for the Digital Humanities and the cDH Colab
+# Resources for the Computational Digital Humanities Colab
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Computational Digital Humanities
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
