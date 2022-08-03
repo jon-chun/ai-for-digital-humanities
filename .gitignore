@@ -1,3 +1,9 @@
+# Python virtualenv directory (and all libraries)
+venv/ 
+
+# VSCode specific directory
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
