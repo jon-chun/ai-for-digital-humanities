@@ -1,5 +1,10 @@
 # Welcome to AI for the Digital Humanities and the Computational DH Colab
 
+## **DH Colab**
+
+DH Colab is the virtual Digital Humanities Colab at Kenyon College. Students and faculty work side by side to explore new computational approaches and create innovative research projects.
+
+
 ## **Our Vision**
 
 “Why isn’t AI a branch of mathematics?” Norvig and Russell ask in their seminal textbook Artificial Intelligence: A Modern Approach. “The first answer,” they explain, “is that AI from the start embraced the idea of duplicating human faculties such as creativity, self-improvement, and language use”(18).
