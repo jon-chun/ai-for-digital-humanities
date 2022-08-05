@@ -9,6 +9,7 @@ If you have a resource we should add, please either (a) email us at chunj@kenyon
 * [Data](./resources/pipeline_data.md)
 * [Models](./resources/pipeline_models.md)
 * [Metrics](./resources/pipeline_metrics.md)
+* [AutoML](./resources/pipeline_automl.md)
 * [Visualization](./resources/pipeline_visualizations.md)
 * [XAI](./resources/pipeline_xai.md)
 * [MLOps](./resources/pipeline_mlops.md)
