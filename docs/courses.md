@@ -37,9 +37,9 @@ We explore AI from this humanist perspective by building a foundation to underst
 
 Textual analysis will receive our major attention and will provide an ideal foundation for literature students interested in computational approaches to literature. However we will also explore a wide range of textual applications that will be of interest to a broader range of students: textual analytics that help us explore disciplines like economics, politics, sociology, cultural studies and psychology. The last weeks of the course will move to image and sound by building on previous skills acquired from textual analysis.
 
-### Cultural Analytics and Computational Digital Humanities
+### [IPHS220 Cultural Analytics](https://jon-chun.github.io/cultural-analytics/)
 
-* Coming Fall 2022
+Cultural analytics is the study of society and social phenomena by analyzing data and the way it flows. This course presumes some coding experience or the introductory course to Digital Humanities, Programming Humanity. We start my visualizing geospatial data via maps and charts. We’ll build on our skills using API’s to create original datasets from social media sites like Twitter. Then we’ll develop natural language processing skills including sentiment analysis and topic clustering to explore text for insights. We’ll also learn how to graph and explore social networks. In class, we’ll do some hands-on projects like analyzing the social network of Game of Thrones and trying to classify who’s tweeting: Trump or Trudeau. In the final segment of the course, students develop their own project centered on their interests.
 
 ### [IPHS484 Senior Seminar/Independent Study](https://digital.kenyon.edu/do/search/?q=digital%20humanities&start=0&context=4580553&facet=discipline%3ADigital%20Humanities#)
 
