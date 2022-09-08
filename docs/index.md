@@ -1,17 +1,24 @@
-# Welcome to AI for the Digital Humanities and the Computational DH Colab
+# Welcome to AI for Humanity
 
-## **DH Colab**
+## Introduction
 
-DH Colab is the virtual Digital Humanities Colab at Kenyon College. Students and faculty work side by side to explore new computational approaches and create innovative research projects.
+This site provides a unique humanity-first introductory course 
 
 
-## **Our Vision**
+To our knowledge, this is the first 
+## A humanity-first approach to teaching Artificial Intelligence
+---
 
 “Why isn’t AI a branch of mathematics?” Norvig and Russell ask in their seminal textbook Artificial Intelligence: A Modern Approach. “The first answer,” they explain, “is that AI from the start embraced the idea of duplicating human faculties such as creativity, self-improvement, and language use”(18).
 
 We explore AI from this humanist perspective by building a foundation to understand the creativity, self-improvement and language at the core of the discipline. Our approach blends the conceptual with hands-on exploration and application. We think through the humanist-centered theory and practice of artificial intelligence and machine learning from a liberal arts perspective that is highly interdisciplinary in nature. To that end, the course will touch on domains intertwined with AI like cognitive science and language and linguistics.
 
 Textual analysis will receive our major attention and will provide an ideal foundation for literature students interested in computational approaches to literature. However we will also explore a wide range of textual applications that will be of interest to a broader range of students: textual analytics that help us explore disciplines like economics, politics, sociology, cultural studies, and psychology. The last weeks of the course will move to image and sound by building on previous skills acquired from textual analysis.
+
+## **DH Colab**
+
+DH Colab is the virtual Digital Humanities Colab at Kenyon College. Students and faculty work side by side to explore new computational approaches and create innovative research projects.
+
 
 
 ## **Humanity and Technology**
