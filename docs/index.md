@@ -2,7 +2,11 @@
 
 ## Introduction
 
-This site provides a unique humanity-first introductory course 
+This site provides a unique "humanity-first" introductory course to Machine Learning and Artificial Inteligence. It takes a interdisciplinary approach to contextualizing, extrapolating and interpreting how ML/AI is increasingly intertwined in understanding the big issues of our day. 
+
+This course covers  FATE (Fairness, Accuracy, Transparency and Explainability) of AI decision-making, state surveillance, workplace automation, lethal autonomous weapons, biotechnologies, etc.
+
+ synthesis of a broad interdisciplinary approach to the  
 
 
 To our knowledge, this is the first 
